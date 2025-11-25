@@ -73,11 +73,9 @@ This insight only becomes clear when combining **sales trends + penetration data
 
 ## 🖥 **Dashboard Snapshot**
 
-*(Add your Power BI dashboard image here)*
 
 ```
-"C:\Users\shiva\OneDrive\Desktop\Analyst Projects\PowerBI\EV_dashboard.png"
-```
+
 
 ---
 
