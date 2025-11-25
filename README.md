@@ -73,12 +73,11 @@ This insight only becomes clear when combining **sales trends + penetration data
 
 ## 🖥 **Dashboard Snapshot**
 
-
+```
 ```
 
-
 ---
-
+```
 ## 🛠 **Tools & Technologies Used**
 
 * **Power BI** (Data modeling & visualization)
