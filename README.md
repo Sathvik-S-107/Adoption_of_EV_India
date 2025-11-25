@@ -74,7 +74,8 @@ This insight only becomes clear when combining **sales trends + penetration data
 ## 🖥 **Dashboard Snapshot**
 
 ```
-```
+![EV Dashboard](PASTE-LINK-HERE)
+
 
 ---
 ```
