@@ -109,4 +109,3 @@ Adoption_of_EV_India/
 
 ---
 
-If you want, I can also create a **resume-ready 3-line project summary** for you.
